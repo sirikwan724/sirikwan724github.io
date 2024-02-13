@@ -1,4 +1,4 @@
-[banner]https://pin.it/4oXUPDGDI
+https://pin.it/4oXUPDGDI
 
 # สมุดบันทึก
 
