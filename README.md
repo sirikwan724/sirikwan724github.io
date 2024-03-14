@@ -1,4 +1,4 @@
-![image](https://github.com/sirikwan724/sirikwan724github.io/assets/159878464/b9e44149-db92-410b-9157-8288a7d48d3b)
+![image](https://i.pinimg.com/originals/c2/7c/e5/c27ce5d2a992641388f66364ddbec2f1.jpg)
 # สมุดบันทึก
 
 สำหรับรายวิฃา oop
